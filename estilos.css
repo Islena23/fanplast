@@ -8,3 +8,7 @@ body{
     font-family: 'Open Sans', sans-serif;
 }
 .contenedor-imagen{text-align: center;}
+.contenedor-galeria{height: 500px;
+justify-content: space-between;display: flex;
+}
+.imagen-del-producto{height: 100%;}
